@@ -1,6 +1,0 @@
-{
-  "appId": "com.centene.tca",
-  "appName": "my-app",
-  "bundledWebRuntime": false,
-  "webDir": "www"
-}
